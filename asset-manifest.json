@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Wojnow-Develop.github.io/static/css/main.f23669c7.css",
-    "main.js": "/Wojnow-Develop.github.io/static/js/main.b68c2001.js",
-    "static/media/revicons.eot": "/Wojnow-Develop.github.io/static/media/revicons.a77de540a38981833f9e.eot",
-    "static/media/revicons.ttf": "/Wojnow-Develop.github.io/static/media/revicons.57fd05d4ae650374c8de.ttf",
-    "static/media/revicons.woff": "/Wojnow-Develop.github.io/static/media/revicons.e8746a624ed098489406.woff",
-    "index.html": "/Wojnow-Develop.github.io/index.html",
-    "main.f23669c7.css.map": "/Wojnow-Develop.github.io/static/css/main.f23669c7.css.map",
-    "main.b68c2001.js.map": "/Wojnow-Develop.github.io/static/js/main.b68c2001.js.map"
+    "main.css": "/static/css/main.77e4a7d3.css",
+    "main.js": "/static/js/main.b68c2001.js",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/index.html",
+    "main.77e4a7d3.css.map": "/static/css/main.77e4a7d3.css.map",
+    "main.b68c2001.js.map": "/static/js/main.b68c2001.js.map"
   },
   "entrypoints": [
-    "static/css/main.f23669c7.css",
+    "static/css/main.77e4a7d3.css",
     "static/js/main.b68c2001.js"
   ]
 }
